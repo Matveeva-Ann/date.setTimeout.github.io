@@ -1,7 +1,6 @@
 # Проект "Accurate Clock" ⏳🕐⏰
 
-Подивитись проект: [[[https://studioglass-43402.web.app/](https://studioglass-43402.web.app/)](https://matveeva-ann.github.io/Matveeva-Anna.github.io/)](https://matveeva-ann.github.io/date.setTimeout.github.io/).
-
+Подивитись проект: https://matveeva-ann.github.io/date.setTimeout.github.io/
 ## Індивідуальна реалізація 👩‍💼
 
 ## Використані технології:
